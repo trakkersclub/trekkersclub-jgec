@@ -1,86 +1,72 @@
 [
-    {
-      "Timestamp": "6/11/2023 15:26:57",
-      "Name": "Priyanshu Kumar",
-      "Position": "Assistant Secretary",
-      "Photo": "../mem/priyanshu kumar.jpg",
-      "priority": 1
-    },
-    {
-        "Timestamp": "6/12/2023 19:09:24",
-        "Name": "V Nikhita",
-        "Position": "Treasurer",
-        "Photo": "../mem/V. Nikhita.jpg",
-        "priority": 2
-    },
-    {
-      "Timestamp": "6/12/2023 19:09:24",
-      "Name": "Rounak Agarwal",
-      "Position": "Assistant Treasurer",
-      "Photo": "../mem/rounak agarwal.jpg",
-      "priority": 3
-    },
-    {
-      "Timestamp": "6/12/2023 19:12:32",
-      "Name": "Sandipan Chatterjee",
-      "Position": "Convener",
-      "Photo": "../mem/Sandipan Chatterjee.jpg",
-      "priority": 6
-    },
-    {
-      "Timestamp": "6/12/2023 19:47:04",
-      "Name": "Spandan Bhattacharya",
-      "Position": "Member",
-      "Photo": "../mem/spandan.jpg",
-      "priority": 7
-    },
-    {
-      "Timestamp": "6/12/2023 20:33:19",
-      "Name": "Rakesh Kumar Baskey ",
-      "Position": "Member ",
-      "Photo": "../mem/RAKESH KUMAR BASKEY.png",
-      "priority": 7
-    },
-    {
-      "Timestamp": "6/12/2023 21:30:01",
-      "Name": "Atri Sukul ",
-      "Position": "Assistant Web Admin",
-      "Photo": "../mem/Atri Sukul.jpg",
-      "priority": 5
-    },
-    {
-      "Timestamp": "6/12/2023 21:31:12",
-      "Name": "Titon Das ",
-      "Position": "Secretary",
-      "Photo": "../mem/Trekkers Club, JGEC.jpg",
-      "priority": 0
-    },
-    {
-      "Timestamp": "6/12/2023 22:40:12",
-      "Name": "Indira Goswami ",
-      "Position": "Member",
-      "Photo": "../mem/INDIRA GOSWAMI.jpg",
-      "priority": 7
-    },
-    {
-      "Timestamp": "6/13/2023 3:35:33",
-      "Name": "Shibam Naskar",
-      "Position": "Web Admin",
-      "Photo": "../mem/shibam_naskar.jpg",
-      "priority": 4
-    },
-    {
-      "Timestamp": "6/13/2023 10:04:16",
-      "Name": "Somnath Pal",
-      "Position": "Secretary",
-      "Photo": "../mem/somnath pal.jpg",
-      "priority": 0
-    },
-    {
-      "Timestamp": "6/13/2023 11:58:12",
-      "Name": "Rishi Mukherjee",
-      "Position": "Member",
-      "Photo": "../mem/RISHI MUKHERJEE.jpg",
-      "priority": 7
-    }
-   ]
+  {
+    "Timestamp": "6/11/2023 15:26:57",
+    "Name": "Srinjay Mishra",
+    "Position": "Secretary",
+    "Photo": "../mem/profile_img.png",
+    "priority": 1
+  },
+  {
+    "Timestamp": "6/12/2023 19:09:24",
+    "Name": "Soumyabrata Sinha",
+    "Position": "Assistant Secretary",
+    "Photo": "../mem/profile_img.png",
+    "priority": 2
+  },
+  {
+    "Timestamp": "6/12/2023 19:09:24",
+    "Name": "Sampurna Sarkar",
+    "Position": "Treasurer",
+    "Photo": "../mem/profile_img.png",
+    "priority": 3
+  },
+  {
+    "Timestamp": "6/12/2023 19:09:24",
+    "Name": "Dibyendu Mondal",
+    "Position": "Assistant Treasurer",
+    "Photo": "../mem/profile_img.png",
+    "priority": 4
+  },
+  {
+    "Timestamp": "6/12/2023 19:12:32",
+    "Name": "Siddhant Saiba",
+    "Position": "Web Admin",
+    "Photo": "../mem/profile_img.png",
+    "priority": 5
+  },
+  {
+    "Timestamp": "6/12/2023 19:47:04",
+    "Name": "Ayush Pandey",
+    "Position": "Web Admin",
+    "Photo": "../mem/profile_img.png",
+    "priority": 6
+  },
+  {
+    "Timestamp": "6/12/2023 20:33:19",
+    "Name": "Pritam Kr. Hembrom",
+    "Position": "Convener",
+    "Photo": "../mem/profile_img.png",
+    "priority": 7
+  },
+  {
+    "Timestamp": "6/12/2023 21:30:01",
+    "Name": "Arijit Mitra",
+    "Position": "Convener",
+    "Photo": "../mem/profile_img.png",
+    "priority": 8
+  },
+  {
+    "Timestamp": "6/12/2023 21:31:12",
+    "Name": "Ashim Shit",
+    "Position": "Management Head",
+    "Photo": "../mem/profile_img.png",
+    "priority": 9
+  },
+  {
+    "Timestamp": "6/12/2023 22:40:12",
+    "Name": "Shahil Thakur",
+    "Position": "Social Media Head",
+    "Photo": "../mem/profile_img.png",
+    "priority": 10
+  }
+]

@@ -271,37 +271,52 @@
 
 
 
-	<section id=speakers class="section speakers">
+	<section id=speakers class="section speakers"">
 		<div class=container id="members">
 			<div class=row>
 				<div class=col-md-12>
 					<h3 class=section-title>Members</h3>
 				</div>
 			</div>
+			<!-- teachers -->
 			<div class=row>
 				<div class=col-md-4>
 					<div class=speaker>
 						<figure>
-							<img alt class="img-responsive center-block" src="assets/img/Members/dkkSir.jpe"
-								width="135px;" height="135px;">
+							<img alt class="img-responsive center-block" src="assets/img/mem/profile_img.png"
+								width="135px;" height="135px;" style="border-radius: 10%;">
 						</figure>
-						<h4>&emsp;Dr. Dipak Kumar Koley</h4>
+						<h4>Prof. Aditya Kumar Samanta</h4>
 						<p>Associate Professor & HOD</p>
-						<p><a style="color: #fff;" href="http://jgec.ac.in/php/cse/index.php?od=1" target="_blank">Dept.
-								of Computer Sc. & Engg., JGEC</a></p>
-						<p>Faculty Advisor, Trekkers’ Club, JGEC</p>
+						<p>Coordinator, Trekkersclub
+	
+							JGEC</p>
+					</div>
+				</div>
+				<div class=col-md-4>
+					<div class=speaker>
+						<figure>
+							<img alt class="img-responsive center-block" src="assets/img/mem/profile_img.png"
+								width="135px;" height="135px;" style="border-radius: 10%;">
+						</figure>
+						<h4>&emsp;Dr. Arindam Saha</h4>
+						<!-- <p>Associate Professor & HOD</p> -->
+						<p>Assistent Coordinator, Trekkersclub
+
+								JGEC</p>
 
 					</div>
 				</div>
 				<div class=col-md-4>
 					<div class=speaker>
 						<figure>
-							<img alt class="img-responsive center-block" src="assets/img/Members/aniSir.jpeg"
-								width="135px;" height="135px;">
+							<img alt class="img-responsive center-block" src="assets/img/mem/profile_img.png"
+								width="135px;" height="135px;" style="border-radius: 10%;"	>
 						</figure>
-						<h4>Aniruddha Basu</h4>
-						<p>Office Superintendent</p>
-						<p>JGEC</p>
+						<h4>Prof. Souvik Dutta</h4>
+						<p>Assistent Coordinator, Trekkersclub
+
+							JGEC</p>
 					</div>
 				</div>
 
@@ -352,6 +367,7 @@
 		</div>
 	</section>
 
+	<!-- student members  -->
 	<script>
 		// Function to fetch JSON data and display members
 		function fetchAndDisplayMembers() {
@@ -370,9 +386,9 @@
 
 							<div class=speaker>
                         <figure>
-                            <img alt class="img-responsive center-block" src="assets/img/Members/${member.Photo}" width="135px;" height="135px;">
+                            <img alt class="img-responsive center-block" src="assets/img/Members/${member.Photo}" width="135px;" height="135px;" style="border-radius: 10%;">
                         </figure>
-                        <h4>&emsp;${member.Name}</h4>
+                        <h4>&emsp;${member.Name.trim()}</h4>
                         <p>${member.Position}</p>
 						
                         

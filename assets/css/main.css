@@ -210,4 +210,7 @@ div.desc {
     display: table;
     clear: both;
 }
+
+#members{
+    border-radius: 20px;
 }
